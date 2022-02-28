@@ -1,0 +1,17 @@
+{
+  "name": "mapbox-404",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mapbox-gl": "^2.7.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
