@@ -1,3 +1,11 @@
+Set a mapbox token in a file called **key.js**
+
+```
+export default 'mapbox-token';
+```
+
+Install and run:
+
 ```
 npm install
 npm start
