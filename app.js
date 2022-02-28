@@ -40,6 +40,7 @@ setTimeout(() => {
     lng: 27.99211370672353,
     lat: -53.75733749767177
   });
+  console.log('set new coordinates');
 }, 1000);
 
 setTimeout(() => {
@@ -47,4 +48,5 @@ setTimeout(() => {
     lng: 28.00239616386898,
     lat: -53.75239988543803
   });
+  console.log('set new coordinates');
 }, 3000);
